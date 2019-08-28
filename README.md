@@ -1,1 +1,1 @@
-R2 solution kattis
+Kattis Solutions in Python

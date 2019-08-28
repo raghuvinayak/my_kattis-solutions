@@ -1,2 +1,1 @@
-# my_kattis-solutions
-my_kattis solutions
+R2 solution kattis

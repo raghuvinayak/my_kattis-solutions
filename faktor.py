@@ -1,0 +1,6 @@
+data = input()
+a = data.split(" ")
+b = int(a[0])
+c = int(a[1])
+sum = (b*c)-(b-1)
+print(sum)

@@ -1,0 +1,9 @@
+data = int(input())
+b = ""
+for i in range(0, data):
+    a = int(input())
+    if a%2 == 0:
+        b+="{} is even\n".format(a)
+    else:
+        b+= "{} is odd\n".format(a)
+print(b)

@@ -1,0 +1,10 @@
+data = input()
+my_input = list(data)
+g = my_input.count("G")
+c = my_input.count("C")
+t = my_input.count("T")
+sum_ = int(g**2 + c**2 + t**2)
+l1 = [g,c,t]
+i = min(l1)
+sum_ += (7*i)
+print(sum_)
